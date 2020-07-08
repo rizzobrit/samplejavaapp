@@ -1,5 +1,5 @@
 
-Sample Java Applicaiton V1.9
-Hello
+Sample Java Applicaiton V1.0
+
 
 
